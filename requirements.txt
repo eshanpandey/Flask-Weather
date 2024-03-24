@@ -2,3 +2,5 @@ Flask
 Flask-SQLAlchemy
 requests==2.26.0
 python-dotenv==0.19.1
+gunicorn
+
